@@ -1,0 +1,27 @@
+.red-border {
+  border: 0.1rem solid red;
+}
+.profilepic {
+  width: 5rem;
+  height: 5rem;
+  object-fit: cover;
+}
+.frndcard {
+  margin-top: 2rem;
+  display: grid;
+  grid-template-columns: 6rem 25%;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+.btn {
+  margin-top: 1rem;
+}
+#navbar {
+  display: grid;
+  grid-template-columns: 33% 34% 33%;
+  text-align: center;
+}
